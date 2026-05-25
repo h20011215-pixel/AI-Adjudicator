@@ -2,7 +2,7 @@
 // constants.js — 全域常數定義
 // ============================================================
 
-export const GEMINI_API_KEY = 'AIzaSyApUv6c0RcZ2zwr68RkkjREBH4oYj4rzBA'; // 請在此填入你的 Gemini API Key
+export const GEMINI_API_KEY = ''; // 使用者透過網頁右上角「API Key」按鈕自行填入
 
 export const GEMINI_MODEL = 'gemini-2.5-flash';
 
